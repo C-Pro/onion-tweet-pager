@@ -1,0 +1,1 @@
+/home/cpro/work/arduino/sketchbook/lcdtest/lcdtest.ino
