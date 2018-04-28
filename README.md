@@ -7,9 +7,9 @@ Up/down buttons change screen brightness and left/right scroll through tweets.
 
 Components used:
 
-# Onion Omega2+
-# Onion Arduino Dock R2
-# DFRobot LCD Keypad Shield
+* Onion Omega2+
+* Onion Arduino Dock R2
+* DFRobot LCD Keypad Shield
 
 I assume that you have already configured your Omega to have internet connectivity. If not, start here: https://docs.onion.io/omega2-docs/first-time-setup.html
 
